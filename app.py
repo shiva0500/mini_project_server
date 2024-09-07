@@ -66,7 +66,7 @@ def analyze_resume():
             - **Weaknesses**: Identify areas where the candidate's resume might fall short.
             - **Recommendations**: Offer actionable advice on how the candidate can enhance their application.
             Present your findings in a well-organized HTML format that makes it easy to digest and understand the candidate's alignment with the role.
-            Note:the headings and highlights should be in block letters
+            Note:the headings and highlights should formated be in html heading tags
             Ensure your response is formatted in HTML for clear presentation and easy integration into the application.
             """
         elif analysis_type == "percentage_match":
